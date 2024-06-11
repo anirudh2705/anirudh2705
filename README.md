@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anirudh2705
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning Java, dsa and some frontend tech
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently exploring React, Redux and all frontend tech
 - 💞️ I’m looking to collaborate on backend and web development projects
 - 📫 How to reach me https://www.linkedin.com/in/anirudh-patnaik-1a0374170/
 
